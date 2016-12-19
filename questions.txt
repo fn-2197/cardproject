@@ -1,0 +1,3 @@
+1. 26 turns is the shortest possible game of war.
+2. a game of war can go on forever, but 2600 is the largest typical.
+3. on average, a game is 1600 rounds.
